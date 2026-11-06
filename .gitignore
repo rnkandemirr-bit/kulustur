@@ -1,0 +1,11 @@
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+*.sln
+# Fab paketi lisansi geregi repoya girmez (ham dosyalar paylasilamaz)
+Content/3DPlatformerGameBundle/
+Video/
+Paket/
+Build/Windows/FileOpenOrder/
